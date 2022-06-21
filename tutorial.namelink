@@ -1,0 +1,5 @@
+# namelink tutorial example
+ul   /usr/local
+ulb  ~ul/bin
+uls  ~ul/sbin
+ulv  ~ul/var
